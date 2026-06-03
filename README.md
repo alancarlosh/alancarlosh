@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Alan Carlos
 
-<!--
-**alancarlosh/alancarlosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Developer focused on mobile apps, REST APIs, React/TypeScript, Android/Kotlin, .NET MAUI, Python and AI-assisted development.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Mobile: Android/Kotlin, .NET MAUI, Flutter, React Native
+- Frontend: React, TypeScript, JavaScript, HTML, CSS
+- Backend: ASP.NET Core, Flask, REST APIs, JWT, CRUD
+- Databases: MongoDB, Firebase Firestore, PostgreSQL, MariaDB
+- Cloud/Deploy: AWS EC2, AWS S3, Render, PythonAnywhere, Docker
+- Tools: Git, GitHub, Postman, VS Code, Cursor, Claude Code, Codex, GitHub Copilot
+
+## Featured Projects
+
+- PayNest: Mobile collection management app with .NET MAUI, ASP.NET Core, MongoDB and JWT authentication.
+- CareMyCar: Native Android app for vehicle maintenance tracking and REST API integration.
+- Festum: Flutter events app with authentication, navigation, API integration and Rive animations.
+- ForenseEvidenceClassifier: Python computer vision pipeline using BoVW, SIFT/KAZE, KMeans and RandomForest.
+
+## Currently Learning
+
+- React Native
+- Cloud deployment
+- AI-assisted development workflows
+- Software architecture and testing
+
+## Contact
+
+- LinkedIn: linkedin.com/in/alancarloshernandez
+- Email: alancarlos032104@gmail.com
