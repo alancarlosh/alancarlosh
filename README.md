@@ -4,7 +4,7 @@ Junior Software Developer focused on mobile apps, REST APIs, React/TypeScript, A
 
 ## Tech Stack
 
-- Mobile: Android/Kotlin, .NET MAUI, Flutter, React Native
+- Mobile: Swift, Android/Kotlin, .NET MAUI, Flutter, React Native
 - Frontend: React, TypeScript, JavaScript, HTML, CSS
 - Backend: ASP.NET Core, Flask, REST APIs, JWT, CRUD
 - Databases: MongoDB, Firebase Firestore, PostgreSQL, MariaDB
